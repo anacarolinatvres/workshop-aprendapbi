@@ -1,13 +1,13 @@
 # workshop-aprendapbi
 
-# DRE CONTÁBIL
+## DRE CONTÁBIL
 
-![https://github.com/anacarolinatvres/workshop-aprendapbi/blob/master/gifs/drecontabil.gif](relatório drecontábil)
+[https://github.com/anacarolinatvres/workshop-aprendapbi/blob/master/gifs/drecontabil.gif](relatório drecontábil)
 
-# ESTOQUE
+## ESTOQUE
 
 ![https://github.com/anacarolinatvres/workshop-aprendapbi/blob/master/gifs/estoque.gif](relatório estoque)
 
-# FINANCEIRO
+## FINANCEIRO
 
 ![https://github.com/anacarolinatvres/workshop-aprendapbi/blob/master/gifs/financeiro.gif](relatório financeiro)
