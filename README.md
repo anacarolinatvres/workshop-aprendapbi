@@ -1,5 +1,5 @@
 # Workshop Aprenda PBI
-Workshops Power BI para Negócios: Contábil + Estoque + Financeiro.
+Workshop Power BI para Negócios: Contábil + Estoque + Financeiro.
 
 #### DRE CONTÁBIL
 Dashboard Demonstrativo de Resultado (DRE Contábil) com DAX Avançado. [Ver mais](https://app.powerbi.com/view?r=eyJrIjoiNDAwNjhiN2EtZjcxMC00Yjg4LTg5ZGYtMjE3ODhkOTRiY2NiIiwidCI6ImY4NWYzNjgwLTUwMTMtNGE0OS04Yjc5LTA4NTQyNWRkOTVlZCJ9)
