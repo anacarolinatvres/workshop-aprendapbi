@@ -1,13 +1,13 @@
 # Workshop Aprenda PBI
 
-### RE CONTÁBIL
+#### DRE CONTÁBIL
 
 ![relatório drecontábil](https://github.com/anacarolinatvres/workshop-aprendapbi/blob/master/gifs/drecontabil.gif)
 
-### ESTOQUE
+#### ESTOQUE
 
-![https://github.com/anacarolinatvres/workshop-aprendapbi/blob/master/gifs/estoque.gif](relatório estoque)
+![relatório estoque](https://github.com/anacarolinatvres/workshop-aprendapbi/blob/master/gifs/estoque.gif)
 
-### FINANCEIRO
+#### FINANCEIRO
 
-![https://github.com/anacarolinatvres/workshop-aprendapbi/blob/master/gifs/financeiro.gif](relatório financeiro)
+![relatório financeiro](https://github.com/anacarolinatvres/workshop-aprendapbi/blob/master/gifs/financeiro.gif)
